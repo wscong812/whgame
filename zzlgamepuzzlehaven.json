@@ -1,5 +1,5 @@
 {
  "message": "ok",
- "checkVpn":"ok",
- "checkLg":"ok",
+ "checkVpn":"false",
+ "checkLg":"false",
 }
